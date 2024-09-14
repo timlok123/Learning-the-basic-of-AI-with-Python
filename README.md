@@ -8,3 +8,5 @@ The file in this repository are .ipynb file, which means that you can download t
 
 ## Reference 
 1. Pytorch learning materials - [Deep Learning with PyTorch: A 60 Minute Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
+
+2. Deep Learning Wizard [Example of Pytorch NN](https://www.deeplearningwizard.com/deep_learning/practical_pytorch/pytorch_feedforward_neuralnetwork/)
